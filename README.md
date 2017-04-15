@@ -1,3 +1,4 @@
 # Git Tutorial
-This is feature A
+- This is feature A
+- FIX B
 
